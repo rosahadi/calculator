@@ -1,7 +1,5 @@
 "use strict";
 
-import "core-js/stable";
-
 // Theme Switching
 const themeSwitch = document.querySelector(
   ".theme-switch input[type='checkbox']"
